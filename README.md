@@ -3,7 +3,7 @@
 
 
 
-## 🚀 Why StudentFlow Manager?  
+## 🚀 Why Student Flow Manager?  
 **Instant Enrollment** – Add students in real-time with a single click!  
 **Quick Access** – Find any student record in seconds!  
 **Hassle-Free Updates** – Modify details effortlessly!  
