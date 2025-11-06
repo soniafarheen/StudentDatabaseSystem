@@ -1,4 +1,4 @@
-# 🎓 StudentFlow Manager - Queue-Based Student Management System  
+# 🎓 Student Flow Manager - Queue-Based Student Management System  
 **🌟 Streamline Student Records with Lightning-Fast Queue Operations!**  
 
 
