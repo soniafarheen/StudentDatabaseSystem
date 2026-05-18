@@ -44,12 +44,22 @@
   <img width="594" height="490" alt="image" src="https://github.com/user-attachments/assets/0cec86ab-7b33-4725-bef9-cbe8fd83963c" />
 
 
+
+
 - Delete Student Form
   <img width="594" height="393" alt="image" src="https://github.com/user-attachments/assets/d591d08f-ddf6-4376-a0b4-7cb34701a78f" />
 
   
+
+
+
 - Update Student Form
   <img width="594" height="391" alt="image" src="https://github.com/user-attachments/assets/8c54fff1-abef-4354-a06e-cd72e0840868" />
+
+
+
+
+
 
 - Display records
   <img width="790" height="313" alt="image" src="https://github.com/user-attachments/assets/3bbc17b6-4c18-4bf4-9e08-c70c5eb40cf3" />
